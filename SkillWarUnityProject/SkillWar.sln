@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillWar", "Assembly-CSharp.csproj", "{A11653FC-23F3-A460-DA2D-5501247E4330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillWar", "Assembly-CSharp-Editor.csproj", "{3C2DC658-74C3-394C-A1EA-177981B1F04E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11653FC-23F3-A460-DA2D-5501247E4330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11653FC-23F3-A460-DA2D-5501247E4330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11653FC-23F3-A460-DA2D-5501247E4330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11653FC-23F3-A460-DA2D-5501247E4330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2DC658-74C3-394C-A1EA-177981B1F04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2DC658-74C3-394C-A1EA-177981B1F04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2DC658-74C3-394C-A1EA-177981B1F04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2DC658-74C3-394C-A1EA-177981B1F04E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

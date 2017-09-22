@@ -1,0 +1,41 @@
+{
+  "name": "skillwar",
+  "version": "1.0.0",
+  "description": "VideoGame",
+  "main": "server.js",
+  "engines": {
+    "node": "8.4.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "connect-mongo": "^1.3.2",
+    "consolidate": "^0.14.5",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "express-session-passport-cleanup": "^1.0.3",
+    "express-validator": "^4.1.0",
+    "express-ws": "^0.2.6",
+    "hasha": "^3.0.0",
+    "mongoose": "^4.11.9",
+    "passport": "^0.4.0",
+    "passport-local-mongoose": "^4.2.1",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjejevbx/skillwar.git"
+  },
+  "author": "rolaxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjejevbx/skillwar/issues"
+  },
+  "homepage": "https://github.com/xjejevbx/skillwar#readme"
+}

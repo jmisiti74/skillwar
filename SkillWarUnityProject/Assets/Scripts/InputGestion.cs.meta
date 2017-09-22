@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 30c6e7c5f44c42240878368ee2352145
+timeCreated: 1505342161
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - waitForUser: {fileID: 1825706266950218, guid: ff7c2096ee6bad741bfe0f6658a392ea,
+      type: 2}
+  - spell1: {fileID: 4791352845659042, guid: 8400dbc1bfbae1742a53f06a48989dbb, type: 2}
+  - me: {fileID: 4565273895777204, guid: 7c7b4c0d52f846b478196b5553b4daa9, type: 2}
+  - enemy: {fileID: 4405947068937970, guid: d2d7c70c5df66ae43adb83bb240b0c8e, type: 2}
+  - socket: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
